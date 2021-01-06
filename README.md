@@ -15,6 +15,7 @@ Enrich2 runs on Python 3.7 and needs the following dependencies:
 
 
 To install create a environment and activate it
+
 download the code
 
 Execute the main.py script in your environment which starts the graphical user interface

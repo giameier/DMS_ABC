@@ -33,7 +33,8 @@ To start a new project the following parameters have to be set:
 The programm supports parallelprocessing of files. You can specify the amount of CPUs to be used in the DMS_processing_multiprocessing.py file.
 
 
-After hitting the process button the following is executed
+After hitting the process button the following is executed:
+
 All sorte.bam files in the input directory are found.
 All parameters are saved to a Json file in the output directory.
 For each input file a bam file is created containing trimmed sequences

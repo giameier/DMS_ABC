@@ -3,13 +3,9 @@
 Deep mutational scanning of ABCtransporter is a software for processing and analyzing of sequence alignment files from deep mutational scanning experiments of ABC transporter unsing paired overlapp sequences.
 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites and Installing
 
-Enrich2 runs on Python 3.7 and needs the following dependencies:
+It needs the following dependencies:
 * pysam version 0.15.3
 * Tkinter
 

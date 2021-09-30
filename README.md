@@ -27,7 +27,7 @@ To start a new project the following parameters have to be set:
 * Position of last vase of reading frame1: If you have several genes on your reference sequence you have to specify the last base of the first frame
 * Frameshift offset: frame shift of secondond frame relative to first frame.
 * If you like to load parameters from an old project, specify the location of the respective Json file 
-The programm supports parallelprocessing of files. You can specify the amount of CPUs to be used in the DMS_processing_multiprocessing.py file.
+The programm supports parallel processing of files. You can specify the amount of CPUs to be used in the DMS_processing_multiprocessing.py file.
 
 
 After hitting the process button the following is executed:

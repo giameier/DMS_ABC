@@ -24,8 +24,8 @@ To start a new project the following parameters have to be set:
 * Job Name: A name for your project
 * Positions on the gene to be analyzed: This should be given as the position of the first base of codon. Positions should be comaseparated and contain no spaces
 * DNA sequence of the reference: This is your gene of interrest as it was used during alingment with BWA. (Only ATGC allowed and no lower case)
-* Position of last vase of reading frame1: If you have several genes on your reference sequence you have to specify the last base of the first frame
-* Frameshift offset: frame shift of secondond frame relative to first frame.
+* Position of last base of reading frame1: If you have several genes on your reference sequence you have to specify the last base of the first frame
+* Frameshift offset: frame shift of second frame relative to first frame.
 * If you like to load parameters from an old project, specify the location of the respective Json file 
 The programm supports parallel processing of files. You can specify the amount of CPUs to be used in the DMS_processing_multiprocessing.py file.
 
